@@ -122,11 +122,23 @@
       <workItem from="1599118335720" duration="3052000" />
       <workItem from="1599121418541" duration="75657000" />
       <workItem from="1599413481639" duration="5000" />
+      <workItem from="1599414594579" duration="189000" />
     </task>
+    <task id="LOCAL‎00001" summary="hi">
+      <created>1599414657837</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1599414657837</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hi" />
+    <option name="LAST_COMMIT_MESSAGE" value="hi" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1599121794556">
@@ -137,6 +149,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="399" y="221" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1599383232907" />
+    <state x="585" y="110" key="CommitChangelistDialog2" timestamp="1599414650709">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="110" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1599414650709" />
     <state x="781" y="275" key="FileChooserDialogImpl" timestamp="1599400779289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
