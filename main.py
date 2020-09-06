@@ -2,6 +2,8 @@ from pylab import *
 
 from Table import Table
 
+print("hi")
+
 
 def find_top_left_corner(board, table_number):
     for i in range(len(board)):

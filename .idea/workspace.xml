@@ -21,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1gzXGs8CZFQq3dEwT7glr39My6z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -205,10 +206,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1599310285705" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1599414594633">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1599415402375">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599414594633" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599415402375" />
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599415432727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599415432727" />
     <state x="648" y="366" width="707" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1599400799162">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
