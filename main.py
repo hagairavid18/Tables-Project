@@ -2,7 +2,7 @@ from pylab import *
 
 from Table import Table
 
-print("his")
+print("him")
 
 
 def find_top_left_corner(board, table_number):
